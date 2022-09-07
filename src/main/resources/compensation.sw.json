@@ -1,7 +1,7 @@
 {
   "id": "compensation",
   "version": "1.0",
-  "name": "Workflow Error example",
+  "name": "Workflow Error changed",
   "description": "An example of how compensation works",
   "start": "printStatus",
   "states": [
